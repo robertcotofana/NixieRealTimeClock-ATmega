@@ -19,8 +19,8 @@
 #define LEDR			PC3
 
 #define DATA_PIN 		PD2
-#define SH_RegClk 		PD5
-#define SH_RegClear 	PD6 		
+#define SH_RegClk		PD5
+#define SH_RegClear		PD6 		
 #define LATCH 			PD4
 #define EN 				PD3 		
 

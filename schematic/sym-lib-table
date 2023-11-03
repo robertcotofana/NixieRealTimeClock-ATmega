@@ -1,4 +1,5 @@
 (sym_lib_table
   (lib (name "New_Library")(type "KiCad")(uri "${KIPRJMOD}/New_Library.kicad_sym")(options "")(descr ""))
   (lib (name "ITT5870S")(type "KiCad")(uri "${KIPRJMOD}/ITT5870S.kicad_sym")(options "")(descr ""))
+  (lib (name "PCF8583")(type "KiCad")(uri "${KIPRJMOD}/PCF8583.kicad_sym")(options "")(descr ""))
 )
